@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.cpp \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/React/../third-party/glog-0.3.5/src/glog/logging.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/React/../third-party/glog-0.3.5/src/glog/log_severity.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/React/../third-party/glog-0.3.5/src/glog/vlog_is_on.h

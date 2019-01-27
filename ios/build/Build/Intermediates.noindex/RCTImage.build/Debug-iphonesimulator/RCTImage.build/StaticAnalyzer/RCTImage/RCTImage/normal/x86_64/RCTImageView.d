@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageSource.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/jaydeepvishwakarma/React-Native/New/reactWithredux/AsyncReduxTutorial/node_modules/react-native/Libraries/Image/RCTImageUtils.h
